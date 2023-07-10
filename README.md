@@ -1,7 +1,7 @@
 # Nicks_Portfolio
 My data science portfolio
 
-# Introductjion
+# Introduction
 This portfolio is an ongoing project featuring my latest work and selected projects.  
 
 \*Project links are disabled pending some updates and other changes*
